@@ -3,7 +3,6 @@
 <br>
 
 <h1>Seja bem vindo ao meu projeto de previsão do tempo!</h1>
-<br>
 
 ## 
 
