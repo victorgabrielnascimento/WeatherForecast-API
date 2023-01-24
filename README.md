@@ -20,19 +20,19 @@
  **-Abra o terminal e digite o seguinte comando:**
  <p>~ npm run dev ~</p>
  <br>
- **-Abra o navegador e coloque o seguinte link para abrir o servidor:**
+ *-Abra o navegador e coloque o seguinte link para abrir o servidor:*
  <p>~ http://localhost:3030 ~</p>
  <br> 
- **-No navegador, digite:**
+ *-No navegador, digite:*
  <p>~ F12 para Descktop ~</p>
  <p>~ Fn + F12 para Notebook ~</p>
  <br>
- **-Selecione a opção:**
+ *-Selecione a opção:*
  <p>~ Toggle device toolbar ~</p>
- **ou**
+ *ou*
  <p>~ Ctrl + Shift + M ~</p>
  <br>
- **-Aconcelhamos utilizar a dimensão:**
+ *-Aconcelhamos utilizar a dimensão:*
  <p>~ 375 x 573 150% ~</p>
  <br>
  
