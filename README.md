@@ -4,7 +4,6 @@
 
 <h1>Seja bem vindo ao meu projeto de previsão do tempo!</h1>
 
-## 
 
 <p>Supondo que você já leu a descrição do repositório, na linha 25 é onde se encontram as instruções para que possa rodas o APP!</p>
 <br>
