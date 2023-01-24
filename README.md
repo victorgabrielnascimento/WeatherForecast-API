@@ -16,26 +16,26 @@
     - ✔️ [Git](https://git-scm.com/)
     - ✔️ [NodeJS](https://nodejs.org/en/download/)
  
-## 📄 nstruções
+## 📄 Instruções
  -Abra o terminal e digite o seguinte comando:
- <h2> npm run dev </h2>
+ <p>~ npm run dev ~</p>
  <br>
  -Abra o navegador e coloque o seguinte link para abrir o servidor:
- <h2> http://localhost:3030 </h2>
+ <p>~ http://localhost:3030 ~</p>
  <br> 
  -No navegador, digite:
- <h2> F12 para Descktop </h2>
- <h3> Fn + F12 para Notebook</h3>
+ <p>~ F12 para Descktop ~</p>
+ <p>~ Fn + F12 para Notebook ~</p>
  <br>
  -Selecione a opção:
- <h2> Toggle device toolbar </h2>
+ <p>~ Toggle device toolbar ~</p>
  ou
- <h2> Ctrl + Shift + M </h2>
+ <p>~ Ctrl + Shift + M ~</p>
  <br>
  -Aconcelhamos utilizar a dimensão:
- <h2> 375 x 573 150% </h2>
+ <p>~ 375 x 573 150% ~</p>
  <br>
  
  <h1> Pronto, agora é só testar o app, o API atualiza automaticamente diariamente, em caso de bug ou ideia mande um request </h1>
  
- ## 😃 Gostou? me siga no -> [Likedln](https://www.linkedin.com/in/victorgnascimento/)
+ ## 🐱‍👤 Gostou? me siga no -> [Likedln](https://www.linkedin.com/in/victorgnascimento/)
