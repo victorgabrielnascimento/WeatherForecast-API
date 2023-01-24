@@ -17,26 +17,28 @@
     - ✔️ [NodeJS](https://nodejs.org/en/download/)
  
 ## 📄 Instruções
- **-Abra o terminal e digite o seguinte comando:**
+ <br>
+ **Abra o terminal e digite o seguinte comando:**
  <p>~ npm run dev ~</p>
  <br>
- -Abra o navegador e coloque o seguinte link para abrir o servidor:
+ **Abra o navegador e coloque o seguinte link para abrir o servidor:
  <p>~ http://localhost:3030 ~</p>
  <br> 
- -No navegador, digite:
+ **No navegador, digite:
  <p>~ F12 para Descktop ~</p>
  <p>~ Fn + F12 para Notebook ~</p>
  <br>
- -Selecione a opção:
+ **Selecione a opção:
  <p>~ Toggle device toolbar ~</p>
- ou
+ **ou
  <p>~ Ctrl + Shift + M ~</p>
  <br>
- -Aconcelhamos utilizar a dimensão:
+ **Aconcelhamos utilizar a dimensão:
  <p>~ 375 x 573 150% ~</p>
  <br>
  
  <h1> Pronto, agora é só testar o app, o API atualiza automaticamente diariamente, em caso de bug ou ideia mande um request </h1>
  
  ## 🐱‍👤 Gostou? me siga no -> [Likedln](https://www.linkedin.com/in/victorgnascimento/)
- ## Veja mais no meu repositório -> [GitHub](https://github.com/victorgabrielnascimento?tab=repositories)
+ ## Me seiga também no -> [GitHub](https://github.com/victorgabrielnascimento)
+ ## 📚Veja mais no meu repositório -> [Repositories](https://github.com/victorgabrielnascimento?tab=repositories)
