@@ -18,29 +18,34 @@
  
 ## 📄 Instruções
  <br>
- -Abra o terminal e digite o seguinte comando:
+ <h2> Abra o terminal e digite o seguinte comando: </h2> 
+
+ <h4>~ npm run dev ~</h4>
  <br>
- <p>~ npm run dev ~</p>
- <br>
- Abra o navegador e coloque o seguinte link para abrir o servidor:
- <br>
- <p>~ http://localhost:3030 ~</p>
+ 
+ 
+ <h2> Abra o navegador e coloque o seguinte link para abrir o servidor: </h2> 
+ 
+ <h4>~ http://localhost:3030 ~</h4>
  <br> 
- No navegador, digite:
+ 
+ <h2> No navegador, digite: </h2> 
+ 
+ <h4>~ F12 para Descktop ~</h4>
+            <p>ou</p>
+ <h4>~ Fn + F12 para Notebook ~</h4>
  <br>
- <p>~ F12 para Descktop ~</p>
-              ou
- <p>~ Fn + F12 para Notebook ~</p>
+ 
+ <h2> Selecione a opção: </h2> 
+ 
+ <h4>~ Toggle device toolbar ~</h4>
+             <p>ou</p>
+ <h4>~ Ctrl + Shift + M ~</h4>
  <br>
- Selecione a opção:
- <br>
- <p>~ Toggle device toolbar ~</p>
-              ou
- <p>~ Ctrl + Shift + M ~</p>
- <br>
- Aconcelhavel utilizar a dimensão:
- <br>
- <p>~ 375 x 573 150% ~</p>
+ 
+ <h2> Aconcelhavel utilizar a dimensão: </h2> 
+ 
+ <h4>~ 375 x 573 150% ~</h4>
  <br>
  
  <h1> Pronto, agora é só testar o app, o API atualiza automaticamente diariamente, em caso de bug ou ideia mande um request </h1>
