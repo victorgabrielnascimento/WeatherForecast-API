@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://unpkg.com/axios@1.2.3/dist/axios.min.js" ></script>
+    <title>Von Weather Forecast </title>
+</head>
+
+<body>
+
+    <div class= "container">
+        <div>
+            <header>
+                <img src="file/vWeather2.1.2.png" class="logov"
+                <br>
+                <p></p>
+                <hr class="hr3">
+                <p></p>
+            </header>
+        </div>
+
+        <div class="content">
+            <div class="left-col">
+                <h1>Pinhais, PR</h1>
+                <!-- temperatura atual do dia atual -->
+                <div class="atual">
+                    <a id="temperatura-atual"><span></span> °C</a>
+                </div>
+                <div class="vatual">
+                    <a id="vento-atual"><span></span> km/h</a>
+                </div>
+            
+            <div class="infos">  
+                <!-- temperatura e ventos when u click -->
+                <div class="temperatura-MM">
+                    <p>Temperatura</p>
+                    <p><img src="file/arrow-up.svg" alt=""> <span></span> °C</p>
+                    <p><img src="file/arrow-down.svg" alt=""> <span></span> °C</p>
+                </div>
+
+                <div class="vento-MM">
+                    <p>Ventos</p>
+                    <p><img src="file/arrow-up.svg" alt=""><span></span> Km/h</p>
+                    <p><img src="file/arrow-down.svg" alt=""><span></span> Km/h</p>
+                </div> 
+            </div>
+                <div class="opcoes">
+                    <a id="dia"></a>
+                    <a id="noite"></a>
+                </div>
+            </div>
+        </div>
+
+            <div class="navbar">
+                <a href="index.html"></a>
+
+                <!-- Miniaturas -->
+                <ul class="dias">
+                    <li class="temperaturaMinTemplate" style="display: none;">
+                        <a style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif" href="#" onclick="onDayClick(this)">{tempoDia}</a>
+
+                        <!-- Miniatura imagens  -->
+                        <div class="temperaturaMin">
+                            <img src="file/cloud.svg" alt=""> 
+                            <img src="file/moon.svg" alt="" style="display: none;">
+
+                            <!-- Miniatura previsão do tempo -->
+                            <div class="grausMin">
+                                <p>{tempoMin} °C</p>
+                                <p>{tempoMax} °C</p>
+                            </div>
+
+                        </div>
+
+                    </li>
+                </ul>
+
+            </div>
+    </div>
+    <script src="app.js"></script>
+
+    <!-- Botão dark e miniaturas -->
+
+    <div>
+      <input type="checkbox" class="checkbox" id="chk" />
+      <label class="label" for="chk">
+        <i class="fas fa-moon"></i>
+        <i class="fas fa-sun"></i>
+        <div class="ball"></div>
+        
+        <!-- <div class="temperaturaMin">
+            <img src="file/cloud.svg" alt=""> 
+            <img src="file/moon.svg" alt="" style="display: none;">
+        </div> -->
+        
+      </label>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="https://kit.fontawesome.com/998c60ef77.js" crossorigin="anonymous"></script>    
+</body>
+</html>

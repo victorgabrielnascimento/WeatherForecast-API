@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&display=swap');
+
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+html, body
+{
+    height:100vh;
+    width: 100vw;
+    height: 100%; 
+}
+
+body
+{
+    height:100vh;
+    width: 100vw;
+    background: #96c2db;
+    background: -moz-linear-gradient(180deg, #96c2db 50%, #004a73d0 70%);
+    background: -webkit-linear-gradient(180deg, #96c2db 50%, #004a73d0 70%);
+    background: linear-gradient(180deg, #96c2db 50%, #004a73d0 70%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#96c2db",endColorstr="#004a73",GradientType=1);
+    font-family: 'Fira Sans', sans-serif; 
+    font-weight: 700;
+}
+
+body.dark
+{
+    background: #032538;
+    background: -moz-linear-gradient(180deg, #032538 50%, #0077b9d7 94%);
+    background: -webkit-linear-gradient(180deg, #032538 50%, #0077b9d7 94%);
+    background: linear-gradient(180deg, #032538 50%, #0077b9d7 94%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#001826",endColorstr="#0077b9",GradientType=1);
+}
+
+.container
+{
+    max-width: 100vw !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content
+{
+    position:absolute;
+    top: 30vh;
+    margin: auto;
+}
+
+.logov 
+{
+    width: 270px;
+    cursor: pointer;
+    margin-left:10px;
+	margin-top:50px;
+}
+
+.hr3 
+{
+    border: 0;
+    margin: 10px 0 10px 0;
+    height: 3px;
+    background-image: linear-gradient(to right, transparent, #ffffff, transparent);
+}
+
+.header
+{
+    position: relative;
+}
+
+.navbar 
+{
+    overflow-x: scroll;
+    position : absolute;
+    height: 20vh;
+    bottom: 0;
+    width: 100vw;
+    color:#fff;
+    text-align: center;
+}
+
+.navbar ul 
+{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'Fira Sans', sans-serif; 
+    font-weight: 700;
+}
+
+.navbar ul li a 
+{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 28px;
+}
+
+.left-col 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.left-col p
+{
+    font-size: 50px;
+    color:#336780
+}
+
+.left-col h1 
+{
+    font-size: 55px;
+    color: #fff;
+    line-height: 110px;
+    float: left;
+}
+
+.left-col a
+{
+    font-size: 100px;
+    color:#336780
+}
+
+.temperaturaMin
+{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.grausMin
+{
+    margin-left: 10px;
+    font-size: 22px;
+}
+
+.temperatura-MM
+{
+    text-align: center;
+    width: 40vw;
+}
+
+.vento-MM
+{
+    text-align: center;
+    width: 40vw;
+}
+
+.infos
+{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.opcoes
+{
+    margin: 50px;
+}
+
+.opcoes button
+{
+    padding: 0px;
+    width: 0px;
+    border: 0px solid #000;
+    border-radius: 10px;
+    margin: 100px 100x 0px;
+    cursor: pointer;
+} 
+
+.checkbox
+{
+    opacity: 0;
+    position: absolute;
+  }
+  
+  .label
+  {
+    background-color: #97bce2;
+    border-radius: 50px;
+    cursor: pointer;
+    top: 110vw;
+    left: 30vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #336780;
+    box-shadow: 0px 0px 10px 0px #fcfcfc;
+    padding: 5px;
+    position: absolute;
+    align-items: center;
+    height: 46px;
+    width: 100px;
+    transform: scale(1.5);
+  }
+  
+  .label .ball
+  {
+    background-color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    top: 2px;
+    left: 3px;
+    height: 42px;
+    width: 42px;
+    transform: translateX(0px);
+    transition: transform 0.2s linear;
+  }
+  
+  .checkbox:checked + .label .ball
+  {
+    transform: translateX(53px);
+  }
+  
+  .fa-moon 
+  {
+    color: #ffffff;
+  }
+  
+  .fa-sun 
+  {
+    color: #ffffff;
+  }
+  
