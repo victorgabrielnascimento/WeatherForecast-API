@@ -17,10 +17,10 @@
     - ✔️ [NodeJS](https://nodejs.org/en/download/)
  
 ## 📄 Instruções
- -Abra o terminal e digite o seguinte comando:
+ **-Abra o terminal e digite o seguinte comando:**
  <p>~ npm run dev ~</p>
  <br>
- -Abra o navegador e coloque o seguinte link para abrir o servidor:
+ **-Abra o navegador e coloque o seguinte link para abrir o servidor:
  <p>~ http://localhost:3030 ~</p>
  <br> 
  -No navegador, digite:
