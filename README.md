@@ -18,27 +18,33 @@
  
 ## 📄 Instruções
  <br>
- **Abra o terminal e digite o seguinte comando:**
+ -Abra o terminal e digite o seguinte comando:
+ <br>
  <p>~ npm run dev ~</p>
  <br>
- **Abra o navegador e coloque o seguinte link para abrir o servidor:
+ Abra o navegador e coloque o seguinte link para abrir o servidor:
+ <br>
  <p>~ http://localhost:3030 ~</p>
  <br> 
- **No navegador, digite:
+ No navegador, digite:
+ <br>
  <p>~ F12 para Descktop ~</p>
+              ou
  <p>~ Fn + F12 para Notebook ~</p>
  <br>
- **Selecione a opção:
+ Selecione a opção:
+ <br>
  <p>~ Toggle device toolbar ~</p>
- **ou
+              ou
  <p>~ Ctrl + Shift + M ~</p>
  <br>
- **Aconcelhamos utilizar a dimensão:
+ Aconcelhavel utilizar a dimensão:
+ <br>
  <p>~ 375 x 573 150% ~</p>
  <br>
  
  <h1> Pronto, agora é só testar o app, o API atualiza automaticamente diariamente, em caso de bug ou ideia mande um request </h1>
  
- ## 🐱‍👤 Gostou? me siga no -> [Likedln](https://www.linkedin.com/in/victorgnascimento/)
- ## Me seiga também no -> [GitHub](https://github.com/victorgabrielnascimento)
+ ## ☄ Gostou? me siga no -> [Likedln](https://www.linkedin.com/in/victorgnascimento/)
+ ## 🐱‍👤 Me seiga também no -> [GitHub](https://github.com/victorgabrielnascimento)
  ## 📚Veja mais no meu repositório -> [Repositories](https://github.com/victorgabrielnascimento?tab=repositories)
