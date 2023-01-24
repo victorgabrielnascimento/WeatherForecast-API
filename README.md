@@ -45,10 +45,10 @@
  
  <h2> Aconcelhavel utilizar a dimensão: </h2> 
  
- <h4>~ 375 x 573 150% ~</h4>
+ <h4>~ 375 x 573 & 150% de zoom~</h4>
  <br>
  
  <h1> Pronto, agora é só testar o app, o API atualiza automaticamente diariamente, em caso de bug ou ideia mande um request </h1>
  
- ## 🐱‍👤 Gostou? me siga no -> [Likedln](https://www.linkedin.com/in/victorgnascimento/) [GitHub](https://github.com/victorgabrielnascimento)
- ## 📚Veja mais no meu repositório -> [Repositories](https://github.com/victorgabrielnascimento?tab=repositories)
+ ## 🐱‍👤 Gostou? me siga no -> [[Likedin]](https://www.linkedin.com/in/victorgnascimento/) [[GitHub]](https://github.com/victorgabrielnascimento)
+ ## 📚Veja mais no meu repositório -> [[Repositories]](https://github.com/victorgabrielnascimento?tab=repositories)
